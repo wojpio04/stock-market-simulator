@@ -73,7 +73,7 @@ Projekt został zrealizowany w celach edukacyjnych w ramach studiów informatycz
 
 ## Jak uruchomić
 
-1. Sklonuj repozytorium:
+1. Sklonuj repozytorium: https://github.com/wojpio04/stock-market-simulator.git
 2. Przejdź do katalogu projektu: cd stock-market-simulator
 3. Skompiluj: g++ -std=c++20 main.cpp -o app
 4. Uruchom: ./app
