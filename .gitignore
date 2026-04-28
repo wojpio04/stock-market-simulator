@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -67,3 +68,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+=======
+.vs/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.vcxproj.user
+>>>>>>> d55729a (Initial commit)
